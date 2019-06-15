@@ -21,5 +21,12 @@ body {
 /* this will change the nav tabs color to black */
 
 a span {
-    color: black
+    color: black;
+}
+
+
+/* changes the borders to rounded borders */
+
+.usa-hero-callout {
+    border-radius: 50px;
 }
