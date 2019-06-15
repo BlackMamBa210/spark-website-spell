@@ -1,3 +1,25 @@
+/**********************************
+SITE STYLE
+**********************************/
+
+
+/* this will change the background light blue */
+
 body {
     background-color: #87ceeb;
+}
+
+.usa-nav {
+    background-color: #87ceeb;
+}
+
+.usa-footer-secondary_section {
+    background-color: #87ceeb;
+}
+
+
+/* this will change the nav tabs color to black */
+
+a span {
+    color: black
 }
