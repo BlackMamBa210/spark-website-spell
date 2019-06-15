@@ -30,3 +30,16 @@ a span {
 .usa-hero-callout {
     border-radius: 50px;
 }
+
+
+/* rounds the border */
+
+.usa-section {
+    border-radius: 25%;
+}
+
+.usa-media_block-img {
+    width: 125px;
+    height: 125px;
+    border-radius: 100%;
+}
