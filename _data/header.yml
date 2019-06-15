@@ -1,0 +1,10 @@
+type: basic
+
+primary:
+  links: primary
+
+
+secondary:
+  links: secondary
+
+# government_tld: .mil
