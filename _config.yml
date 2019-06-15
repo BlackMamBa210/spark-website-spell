@@ -1,0 +1,33 @@
+
+title: Phoenix Spark
+email: 60AMW.PS.PhoenixSpark@us.af.mil
+description: An experiment in leading innovation from within the Air Force
+
+# github:
+#   organization: TravisSpark
+#   repository: spark-website
+#   default_branch: gh-pages
+
+styles:
+  - /assets/css/main.css
+  - /assets/css/custom.css
+
+scripts:
+  - /assets/uswds/js/uswds.min.js
+  - /assets/js/main.js
+
+markdown: kramdown
+# theme: uswds-jekyll
+remote_theme: 18F/uswds-jekyll
+
+include:
+  - '_pages'
+
+plugins:
+  - 'jekyll-remote-theme' 
+
+exclude:
+  - 'build'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'vendor'
