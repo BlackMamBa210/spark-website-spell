@@ -3957,9 +3957,10 @@ fieldset {
     padding-top: 3rem;
     padding-bottom: 3rem;
     background-image: url("../uswds/img/hero.png");
-    background-position: 60% 30%;
+    background-position: 70% 40%;
     background-size: contain;
     background-repeat: no-repeat;
+    background-size: 900px;
 }
 
 .usa-hero .usa-button {
