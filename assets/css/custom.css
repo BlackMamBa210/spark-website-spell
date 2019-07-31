@@ -7,29 +7,31 @@
   margin-top: 4rem;
 } */
 
+
 /* .usa-link-medium {
   background-image: url('/assets/images/medium.png');
 } */
 
 .usa-link-github {
-  background-image: url('../images/github.png');
+    background-image: url('../images/github.png');
 }
 
 .usa-link-trello {
-  background-image: url('../images/trello-logo.png');
+    background-image: url('../images/trello-logo.png');
 }
 
 .usa-link-slack {
-  background-image: url('../images/slack-logo.png');
+    background-image: url('../images/slack-logo.png');
 }
 
 .usa-link-linkedin {
-  background-image: url('../images/linkedin-logo.png');
+    background-image: url('../images/linkedin-logo.png');
 }
 
 .usa-link-email {
-  background-image: url('../images/email-logo.png');
+    background-image: url('../images/email-logo.png');
 }
+
 
 /* .usa-footer-contact-links .usa-link-generic {
   text-decoration: none;
@@ -41,6 +43,8 @@
 
 
 /* For the decision tree UI */
+
+
 /* .tree-node {
   display: none;
 }
@@ -59,3 +63,53 @@ aside.tree-reset {
   width: 60%;
   margin: 1em auto;
 } */
+
+
+/**********************************
+SITE STYLE
+**********************************/
+
+
+/* this will change the background light blue */
+
+body {
+    background-color: #87ceeb;
+}
+
+.usa-nav {
+    background-color: #87ceeb;
+}
+
+.usa-footer-secondary_section {
+    background-color: #87ceeb;
+}
+
+
+/* this will change the nav tabs color to black */
+
+a span {
+    color: black;
+}
+
+
+/* changes the borders to rounded borders */
+
+.usa-hero-callout {
+    border-radius: 50px;
+}
+
+
+/* rounds the border */
+
+.usa-section {
+    border-radius: 25%;
+}
+
+
+/* rounds the borders */
+
+.usa-media_block-img {
+    width: 125px;
+    height: 125px;
+    border-radius: 100%;
+}
